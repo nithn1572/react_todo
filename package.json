@@ -1,0 +1,25 @@
+{
+  "name": "react_todo",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nithn1572/react_todo.git"
+  },
+  "author": "nithin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nithn1572/react_todo/issues"
+  },
+  "homepage": "https://github.com/nithn1572/react_todo#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.10.0"
+  }
+}
